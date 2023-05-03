@@ -20,7 +20,7 @@ SPEL+
 
 **Simulator StartUp:**
 ```bash
-Restore a controler from folder VRM_Project_2
+Restore a controller from folder VRM_Project_2
 Add all the .step files into the simulator
 It is essential to name the CAD files accordingly to the .main code, since the names are used within the program functions
 ```
