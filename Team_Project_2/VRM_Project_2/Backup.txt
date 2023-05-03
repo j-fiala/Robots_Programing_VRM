@@ -1,0 +1,85 @@
+ENVT0100,LM:2023/05/02 19:16:15:828,DS:0000001952,CS:19806,MA:A4-4C-C8-48-06-CD,EI:           
+General {
+	sDate="2023/05/02 19:16:15:795"
+	sVersion="7. 5. 3. 0"
+	sSerial=""
+	nFileVersion=200
+	nMnpCount=3
+	nCurrentMnpNo=1
+	nPrjFileCount=12
+	nPCInfoFileCount=0
+	nRcType=3
+	nControllerType=2
+	sController="Virtual Controller"
+	nHwInfo=0
+	nETX=0
+	nHwSubInfo=0
+	nEnableDU1=1
+	nEnableDU2=1
+	nEnableDU3=1
+	nPRM=1580675123
+	nMCD=36
+	nPrjDataSize=33170
+	nAlternateFileName=0
+}
+Files {
+	sF000="../Mounted Volume/InitFileSrc.txt"
+	sF001="../CurrentMnp01.PRM"
+	sF002="../Mounted Volume/System/MCSys01.MCD"
+	sF003="../CurrentMnp02.PRM"
+	sF004="../Mounted Volume/System/MCSys02.MCD"
+	sF005="../CurrentMnp03.PRM"
+	sF006="../Mounted Volume/System/MCSys03.MCD"
+}
+PrjFiles {
+	sF000="../Temp/Project/IOLabels.dat"
+	sF001="../Temp/Project/Macros.dat"
+	sF002="../Temp/Project/Main.prg"
+	sF003="../Temp/Project/robot1.pts"
+	sF004="../Temp/Project/robot2.pts"
+	sF005="../Temp/Project/robot3.pts"
+	sF006="../Temp/Project/UserErrors.dat"
+	sF007="../Temp/Project/VRM_Project_2.fg"
+	sF008="../Temp/Project/VRM_Project_2.obj"
+	sF009="../Temp/Project/VRM_Project_2.pf"
+	sF010="../Temp/Project/VRM_Project_2.sprj"
+	sF011="../Temp/Project/VRM_Project_2.vis"
+}
+Robot {
+	Robot01 {
+		sMnpModel="GX8-A652S"
+		nJointType01=65537
+		nJointType02=65538
+		nJointType03=65539
+		nJointType04=65540
+		nJointType05=0
+		nJointType06=0
+		nJointType07=0
+		nJointType08=0
+		nJointType09=0
+	}
+	Robot02 {
+		sMnpModel="LS6-B602S"
+		nJointType01=131073
+		nJointType02=131074
+		nJointType03=131075
+		nJointType04=131076
+		nJointType05=0
+		nJointType06=0
+		nJointType07=0
+		nJointType08=0
+		nJointType09=0
+	}
+	Robot03 {
+		sMnpModel="T6-B602S"
+		nJointType01=196609
+		nJointType02=196610
+		nJointType03=196611
+		nJointType04=196612
+		nJointType05=0
+		nJointType06=0
+		nJointType07=0
+		nJointType08=0
+		nJointType09=0
+	}
+}

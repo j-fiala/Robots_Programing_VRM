@@ -1,0 +1,115 @@
+ENVT0100,LM:2023/05/02 19:16:15:614,DS:0000001790,CS:01380,MA:A4-4C-C8-48-06-CD,EI:           
+WORKQUE {
+	WorkQue_01 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_02 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_03 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_04 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_05 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_06 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_07 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_08 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_09 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_10 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_11 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_12 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_13 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_14 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_15 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+	WorkQue_16 {
+		nQueMax=1000
+		rQueReject=0.000000
+		nQueSort=0
+		nQueAutoRemove=0
+		nQueLen=0
+	}
+}

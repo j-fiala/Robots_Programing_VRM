@@ -1,0 +1,64 @@
+ENVT0100,LM:2023/04/20 12:20:43:022,DS:0000000928,CS:19548,MA:50-3E-AA-11-46-F0,EI:           
+sRCVersion="7.5.3"
+InputBitLabels {
+	nNumberOfLabels=0
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=0
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=7
+	Label1 {
+		nBit=0
+		sLabel="start_cyklu"
+		sDescription=""
+	}
+	Label2 {
+		nBit=1
+		sLabel="g1"
+		sDescription=""
+	}
+	Label3 {
+		nBit=2
+		sLabel="g2"
+		sDescription=""
+	}
+	Label4 {
+		nBit=3
+		sLabel="g3"
+		sDescription=""
+	}
+	Label5 {
+		nBit=5
+		sLabel="r1_ok"
+		sDescription=""
+	}
+	Label6 {
+		nBit=6
+		sLabel="r2_ok"
+		sDescription=""
+	}
+	Label7 {
+		nBit=7
+		sLabel="r3_ok"
+		sDescription=""
+	}
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}

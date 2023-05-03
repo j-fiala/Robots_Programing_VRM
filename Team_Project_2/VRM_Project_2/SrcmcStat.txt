@@ -1,0 +1,253 @@
+ENVT0100,LM:2023/05/02 18:36:48:622,DS:0000003666,CS:05667,MA:A4-4C-C8-48-06-CD,EI:           
+SRCMC {
+	Status {
+		AutoDetect {
+			IO {
+				Port01 {
+					nExist=1
+					nType=-1
+				}
+				Port09 {
+					nExist=1
+					nType=-1
+				}
+				Port02 {
+					nExist=1
+					nType=-1
+				}
+				Port03 {
+					nExist=1
+					nType=-1
+				}
+				Port04 {
+					nExist=1
+					nType=-1
+				}
+				Port05 {
+					nExist=1
+					nType=-1
+				}
+				Port16 {
+					nExist=1
+					nType=-1
+				}
+				Port17 {
+					nExist=1
+					nType=-1
+				}
+				Port18 {
+					nExist=1
+					nType=-1
+				}
+				Port19 {
+					nExist=1
+					nType=-1
+				}
+				Port20 {
+					nExist=1
+					nType=-1
+				}
+				Port21 {
+					nExist=1
+					nType=-1
+				}
+				Port64 {
+					nExist=1
+					nType=-1
+				}
+				Port32 {
+					nExist=1
+					nType=-1
+				}
+			}
+			PG {
+				PG01 {
+					nExist=0
+				}
+				PG02 {
+					nExist=0
+				}
+				PG03 {
+					nExist=0
+				}
+				PG04 {
+					nExist=0
+				}
+			}
+			AIO {
+				AIO01 {
+					nExist=0
+				}
+				AIO02 {
+					nExist=0
+				}
+				AIO03 {
+					nExist=0
+				}
+				AIO04 {
+					nExist=0
+				}
+			}
+			EUROMAP {
+				EM6701 {
+					nExist=1
+					nType=-1
+				}
+				EM6702 {
+					nExist=1
+					nType=-1
+				}
+			}
+			SRAM {
+				nBase_Address=0
+				nSize=0
+			}
+			DB01 {
+				Axis1 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis2 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis3 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis4 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis5 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis6 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis7 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis8 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+			}
+			DB02 {
+				Axis1 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis2 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis3 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis4 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis5 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis6 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis7 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis8 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+			}
+			DB03 {
+				Axis1 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis2 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis3 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis4 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis5 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis6 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis7 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis8 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+			}
+			DB04 {
+				Axis1 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis2 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis3 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis4 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis5 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis6 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis7 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+				Axis8 {
+					nMotor_Type=255
+					nAmp_Type=7
+				}
+			}
+		}
+		nMotion_Control_DLL_Version=4352
+		nKinematics_VxD_Version=1536
+		nMotion_Control_VxD_Version=1792
+		nServo_Software_Version=0
+		nACPU_Version_DU1=0
+		nACPU_Version_DU2=0
+		nPulse_Generator_VxD_Version=0
+		nMotion_I.O_Control_VxD_Version=1024
+		nOscilloScope_VxD_Version=0
+		sInitialize_Status="MC Initialize Ok"
+	}
+}

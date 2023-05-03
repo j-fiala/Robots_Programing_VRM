@@ -1,0 +1,53 @@
+ENVT0100,LM:2023/05/02 19:16:16:331,DS:0000000948,CS:01538,MA:A4-4C-C8-48-06-CD,EI:           
+Feeder1 {
+	bEnabled=False
+	sModel="None"
+	nModelID=-1
+	sName=""
+	sDescription=""
+	sIPAddress=""
+	sIPMask=""
+	nPort=4001
+	bBacklightInstalled=False
+	bHopperInstalled=False
+	bPurgeGateInstalled=False
+}
+Feeder2 {
+	bEnabled=False
+	sModel="None"
+	nModelID=-1
+	sName=""
+	sDescription=""
+	sIPAddress=""
+	sIPMask=""
+	nPort=4001
+	bBacklightInstalled=False
+	bHopperInstalled=False
+	bPurgeGateInstalled=False
+}
+Feeder3 {
+	bEnabled=False
+	sModel="None"
+	nModelID=-1
+	sName=""
+	sDescription=""
+	sIPAddress=""
+	sIPMask=""
+	nPort=4001
+	bBacklightInstalled=False
+	bHopperInstalled=False
+	bPurgeGateInstalled=False
+}
+Feeder4 {
+	bEnabled=False
+	sModel="None"
+	nModelID=-1
+	sName=""
+	sDescription=""
+	sIPAddress=""
+	sIPMask=""
+	nPort=4001
+	bBacklightInstalled=False
+	bHopperInstalled=False
+	bPurgeGateInstalled=False
+}
