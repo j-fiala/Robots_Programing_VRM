@@ -1,35 +1,29 @@
-# Robots_Programing_VRM
-the VRM (Programming for Robots and Manipulators) course enables students to acquire skills and knowledge in programming industrial / mobile robots and manipulators.
+# Robots_Programing_VRM Final Project
+
+## Simulator Scene:
+
+<p align="center">
+<img src=https://github.com/EimJakub/Robots_Programing_VRM/blob/main/Team_Project_2/Simulation.png width="700" height="475">
+</p>
 
 ## Requirements:
 
 **Software:**
 ```bash
-Robot Operating System (ROS)
-RoboStudio ABB
-Automation Studio B&R
-Linux Ubuntu (16.04 or 18.04)
-Unity3D and Vuforia
+Epson RC+ 7.0
 ```
 
 **Programming Language:**
 ```bash
-Python and/or C/C++, C#
+SPEL+
 ```
 
-**Other:**
+**Simulator StartUp:**
 ```bash
-Algorithmization, Programming, Mathematics and Optimization
+Restore a controler from folder VRM_Project_2
+Add all the .step files into the simulator
+It is essential to name the CAD files accordingly to the .main code, since the names are used within the program functions
 ```
 ## Description:
 
-The VRM (Programming for Robots and Manipulators) course enables students to acquire skills and knowledge in programming industrial / mobile robots and manipulators. This course also expands skills in advanced system integration and deployment in real-world robotic applications. The aim of the VRM course is to introduce students with modern approaches to robotic technology with a focus on programming, kinematics / dynamics solutions, motion planning, Industry 4.0 and the use of machine learning (ML).
-
-The main focus is on students practical skills in laboratory exercises, which include several blocks:
-1. RobotStudio ABB
-2. Forward/Inverse kinematics
-3. Robotic operating system (ROS) extended by advanced industrial capabilities ROS-Industrial (ROS-I)
-4. Virtual / digital twin using Unity3D extended by system integration with B&R Automation PLC via OPC UA
-5. A simple demonstration of augmented reality based on robotics
-
-These few blocks are extended by theoretical knowledge, which students acquire in the form of lectures.
+This project aimed to create a simulation in Epson Robotic Studio. The simulation presented a scene where multiple SCARA robots were palletizing 12 parts. The objective was to compare the time taken by each of the three robots to complete the task. This scenario is typically used to help potential customers determine the best robot for their application. Faster robots tend to be more expensive, so the simulation provides customers with performance data to decide whether the higher cost is justified.
